@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/anchor-movie-review-program" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/anchor-ping-frontend" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lab1-counter" vcs="Git" />
   </component>
 </project>
